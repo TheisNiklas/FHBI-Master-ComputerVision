@@ -1,0 +1,7 @@
+890.8170185089111;MobileNetV1_scratch_epochs-10_batch-32
+3205.9504992961884;MobileNetV1_scratch_epochs-20_batch-32
+9407.639491796494;MobileNetV1_scratch_epochs-50_batch-32
+20271.91952252388;MobileNetV1_scratch_epochs-100_batch-32
+2110.76793384552;MobileNetV1_scratch_epochs-10_batch-64
+4905.71552157402;MobileNetV1_scratch_epochs-20_batch-64
+13584.760499954224;MobileNetV1_scratch_epochs-50_batch-64

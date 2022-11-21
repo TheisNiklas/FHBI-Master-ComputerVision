@@ -1,0 +1,10 @@
+7326.073473453522;MobileNetV1_CheckpointTest_scratch_epochs-50_batch-32
+300.07302927970886;MobileNetV1_TL_transfer_epochs-5_batch-32
+772.9134569168091;MobileNetV1_TL_transfer_epochs-10_batch-32
+568.8285241127014;MobileNetV1_TL_transfer_epochs-5_batch-32
+1542.0651619434357;MobileNetV1_TL_transfer_epochs-10_batch-32
+2701.5615241527557;MobileNetV1_BatchTest_scratch_epochs-10_batch-8
+3681.3342945575714;MobileNetV1_BatchTest_scratch_epochs-10_batch-16
+3732.093674659729;MobileNetV1_BatchTest_scratch_epochs-10_batch-32
+4249.439504623413;MobileNetV1_BatchTest_scratch_epochs-10_batch-64
+4538.181462049484;MobileNetV1_BatchTest_scratch_epochs-10_batch-128

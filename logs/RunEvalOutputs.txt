@@ -1,0 +1,14 @@
+-------- Now evaluating: MobileNetV1_scratch_epochs-10_batch-32 --------
+37/37 [==============================] - 105s 664ms/step - loss: 0.0555 - accuracy: 0.9799 - false_negatives: 36.0000 - false_positives: 11.0000
+-------- Now evaluating: MobileNetV1_scratch_epochs-20_batch-32 --------
+37/37 [==============================] - 41s 645ms/step - loss: 0.0265 - accuracy: 0.9897 - false_negatives_1: 11.0000 - false_positives_1: 13.0000
+-------- Now evaluating: MobileNetV1_scratch_epochs-50_batch-32 --------
+37/37 [==============================] - 45s 713ms/step - loss: 0.0323 - accuracy: 0.9897 - false_negatives_2: 1.0000 - false_positives_2: 23.0000
+-------- Now evaluating: MobileNetV1_scratch_epochs-100_batch-32 --------
+37/37 [==============================] - 66s 716ms/step - loss: 3.4945e-04 - accuracy: 1.0000 - false_negatives_3: 0.0000e+00 - false_positives_3: 0.0000e+00
+-------- Now evaluating: MobileNetV1_scratch_epochs-10_batch-64 --------
+37/37 [==============================] - 60s 816ms/step - loss: 0.0577 - accuracy: 0.9824 - false_negatives_4: 35.0000 - false_positives_4: 6.0000
+-------- Now evaluating: MobileNetV1_scratch_epochs-20_batch-64 --------
+37/37 [==============================] - 51s 755ms/step - loss: 0.0303 - accuracy: 0.9880 - false_negatives_5: 5.0000 - false_positives_5: 23.0000
+-------- Now evaluating: MobileNetV1_scratch_epochs-50_batch-64 --------
+37/37 [==============================] - 50s 727ms/step - loss: 0.0071 - accuracy: 0.9983 - false_negatives_6: 3.0000 - false_positives_6: 1.0000
